@@ -11,7 +11,8 @@
     2. Data science
     3. WebDevlopment
     4. Hybrid development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on:
+    1. ?
 - 📫 How to reach me?
     1. minooaung28@gmail.com
 
